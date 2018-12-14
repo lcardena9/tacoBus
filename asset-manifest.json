@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.553c341e.chunk.css",
-  "main.js": "/static/js/main.725b7bed.chunk.js",
-  "main.js.map": "/static/js/main.725b7bed.chunk.js.map",
+  "main.css": "/static/css/main.79f47bb2.chunk.css",
+  "main.js": "/static/js/main.ac6bb098.chunk.js",
+  "main.js.map": "/static/js/main.ac6bb098.chunk.js.map",
   "static/js/1.6f575bcd.chunk.js": "/static/js/1.6f575bcd.chunk.js",
   "static/js/1.6f575bcd.chunk.js.map": "/static/js/1.6f575bcd.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -22,8 +22,8 @@
   "static/media/salsas.jpg": "/static/media/salsas.d5130aea.jpg",
   "static/media/tacoCornBeans.jpg": "/static/media/tacoCornBeans.bd24680b.jpg",
   "static/media/App.css": "/static/media/tacosBanner.21935dd1.jpg",
-  "static/css/main.553c341e.chunk.css.map": "/static/css/main.553c341e.chunk.css.map",
+  "static/css/main.79f47bb2.chunk.css.map": "/static/css/main.79f47bb2.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.3118d69d6e7a44c44d2c20874735ed53.js": "/precache-manifest.3118d69d6e7a44c44d2c20874735ed53.js",
+  "precache-manifest.731020571ae1d29e95a2be8033bebb5c.js": "/precache-manifest.731020571ae1d29e95a2be8033bebb5c.js",
   "service-worker.js": "/service-worker.js"
 }
