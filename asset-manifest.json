@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.2965e801.chunk.css",
-  "main.js": "/static/js/main.b37e98cc.chunk.js",
-  "main.js.map": "/static/js/main.b37e98cc.chunk.js.map",
+  "main.css": "/static/css/main.e19f2278.chunk.css",
+  "main.js": "/static/js/main.936e7ad2.chunk.js",
+  "main.js.map": "/static/js/main.936e7ad2.chunk.js.map",
   "static/js/1.42c9c320.chunk.js": "/static/js/1.42c9c320.chunk.js",
   "static/js/1.42c9c320.chunk.js.map": "/static/js/1.42c9c320.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -21,9 +21,9 @@
   "static/media/polloAsado.jpg": "/static/media/polloAsado.f38d7f20.jpg",
   "static/media/tacos.jpg": "/static/media/tacos.101ca411.jpg",
   "static/media/aboutVan.JPG": "/static/media/aboutVan.ad7ddc36.JPG",
-  "static/media/App.css": "/static/media/homeTacos.83ba08af.jpg",
-  "static/css/main.2965e801.chunk.css.map": "/static/css/main.2965e801.chunk.css.map",
+  "static/media/App.css": "/static/media/tacosBanner.21935dd1.jpg",
+  "static/css/main.e19f2278.chunk.css.map": "/static/css/main.e19f2278.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.e87cac056518874ecdd01fe2e0207fc6.js": "/precache-manifest.e87cac056518874ecdd01fe2e0207fc6.js",
+  "precache-manifest.8fe7ad1bb4cfb6b22d886910a23b7904.js": "/precache-manifest.8fe7ad1bb4cfb6b22d886910a23b7904.js",
   "service-worker.js": "/service-worker.js"
 }
