@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.d1270457.chunk.css",
-  "main.js": "/static/js/main.bc84e7ed.chunk.js",
-  "main.js.map": "/static/js/main.bc84e7ed.chunk.js.map",
+  "main.js": "/static/js/main.fa4b05fe.chunk.js",
+  "main.js.map": "/static/js/main.fa4b05fe.chunk.js.map",
   "static/js/1.42c9c320.chunk.js": "/static/js/1.42c9c320.chunk.js",
   "static/js/1.42c9c320.chunk.js.map": "/static/js/1.42c9c320.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -24,6 +24,6 @@
   "static/media/App.css": "/static/media/tacosBanner.21935dd1.jpg",
   "static/css/main.d1270457.chunk.css.map": "/static/css/main.d1270457.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.dfbc537b1165d388f5456d84e4ed4803.js": "/precache-manifest.dfbc537b1165d388f5456d84e4ed4803.js",
+  "precache-manifest.4ad686bf820c7877a9cf8ffc24db01e0.js": "/precache-manifest.4ad686bf820c7877a9cf8ffc24db01e0.js",
   "service-worker.js": "/service-worker.js"
 }
